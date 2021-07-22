@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palash-bajpai&theme=darkhub&row=2&column=3&margin-w=10&margin-h=10" alt="palash-bajpai" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palash-bajpai&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" alt="palash-bajpai" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -60,7 +61,7 @@
 
 <div display="block">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="palash-bajpai" /></p>
-<br>
-<br>
+<br/>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palash-bajpai&show_icons=true&locale=en&theme=tokyonight" alt="palash-bajpai" /></p>
 </div>
