@@ -44,7 +44,7 @@
 
 
 
-<h3 align="left">Designing Tools</h3>
+<h3 align="left">Designing Tools:</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"   width="40" height="40"/> </a>
@@ -59,9 +59,7 @@
 <br/>
 
 
-<div display="block">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="palash-bajpai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True " alt="palash-bajpai" /></p>
 <br/>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palash-bajpai&show_icons=true&locale=en&theme=tokyonight" alt="palash-bajpai" /></p>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palash-bajpai&show_icons=true&locale=en&theme=dark&hide_border=True " alt="palash-bajpai" /></p>
