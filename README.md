@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PALASH BAJPAI</h1>
-<h3 align="center">A passionate fullStack developer / python coder exploring new things daily.</h3>
+<h2 align="center">A passionate fullStack developer / python coder.</h2>
 <h5 align="center">A motivated Computer Science & Engineering under graduate from National Institute of Technology Calicut, who loves creating new stuffs.</h5>
 <h5 align="center">Life is short, so I use python to code 👨‍💻 </h5>
 
