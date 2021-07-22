@@ -59,6 +59,7 @@
 
 
 <div display="block">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact" alt="palash-bajpai" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palash-bajpai&show_icons=true&locale=en" alt="palash-bajpai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="palash-bajpai" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=palash-bajpai&show_icons=true&locale=en&theme=tokyonight" alt="palash-bajpai" /></p>
 </div>
