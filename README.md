@@ -10,9 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/palash-bajpai/network/members">
-    <img src="https://img.shields.io/github/forks/palash-bajpai"/> 
-  </a>  
   <a href="https://github.com/palash-bajpai/stargazers">
     <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
   </a>
