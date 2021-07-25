@@ -17,14 +17,14 @@
 
 
  
- <p align="center">
-  🌱 I’m currently learning Machine Learning<br></p>
-  <p align="center">
-   💬 Ask me about **React, React Native, Python, Javascript**<br></p>
-  <p align="center">
-  📫 How to reach me **palashbajpai45@gmail.com**<br>
 
-</p>
+  - 🌱 I’m currently learning Machine Learning
+
+  - 💬 Ask me about **React, React Native, Python, Javascript**
+
+  - 📫 How to reach me **palashbajpai45@gmail.com**
+
+
  
  
  
