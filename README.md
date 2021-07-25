@@ -18,11 +18,11 @@
 
  
  <p align="center">
-  <b>🌱 I’m currently learning Machine Learning</b><br></p>
+  🌱 I’m currently learning Machine Learning<br></p>
   <p align="center">
-  <b> 💬 Ask me about</b> **React, React Native, Python, Javascript**<br></p>
+   💬 Ask me about **React, React Native, Python, Javascript**<br></p>
   <p align="center">
-  <b>📫 How to reach me </b>**palashbajpai45@gmail.com**<br>
+  📫 How to reach me **palashbajpai45@gmail.com**<br>
 
 </p>
  
