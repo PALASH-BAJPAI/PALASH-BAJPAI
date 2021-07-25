@@ -16,15 +16,20 @@
 </p>
 
 
-<p align="center">
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **React, React Native, Python, Javascript**
-
-- 📫 How to reach me **palashbajpai45@gmail.com**
  
- </p>
+ <p align="center">
+  <b>🌱 I’m currently learning **Machine Learning**</b><br>
+  
+  <b> 💬 Ask me about **React, React Native, Python, Javascript**</b><br>
+
+  <b>📫 How to reach me **palashbajpai45@gmail.com**</b><br>
+
+</p>
+ 
+ 
+ 
+ 
+ 
   
 <br/>
 
