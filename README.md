@@ -16,33 +16,16 @@
 </p>
 
 
-
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palash-bajpai&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" alt="palash-bajpai" /></a> </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **React, React Native, Python, Javascript**
 
 - 📫 How to reach me **palashbajpai45@gmail.com**
-
+ 
+ </p>
+  
 <br/>
 
 <h3 align="left">Connect with me:</h3>
