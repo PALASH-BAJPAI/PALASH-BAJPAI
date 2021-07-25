@@ -4,35 +4,33 @@
 <h6 align="center">Life is short, so I use python to code 👨‍💻 </h6>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" /> </p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/palash-bajpai/issues">
+    <img src="https://img.shields.io/github/issues/palash-bajpai"/> 
+  </a>
+  <a href="https://github.com/ryo-ma/palash-bajpai/network/members">
+    <img src="https://img.shields.io/github/forks/palash-bajpai"/> 
+  </a>  
+  <a href="https://github.com/ryo-ma/palash-bajpai/stargazers">
+    <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
+  </a>
+    <a href="https://github.com/ryo-ma/palash-bajpai/LICENSE">
+    <img src="https://img.shields.io/github/license/palash-bajpai"/> 
+  </a>
+</p>
+
+
+
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palash-bajpai&theme=darkhub&row=2&column=3&margin-w=5&margin-h=5" alt="palash-bajpai" /></a> </p>
-
-
-
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy"/> 
-  </a>
-</p>
-<p align="center">
-  </a>
-    <a href="https://twitter.com/intent/tweet?text=Add%20dynamically%20generated%20GitHub%20Trophy%20on%20your%20readme%0D%0A&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">
-    <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy"/> 
-  </a>
-</p>
-
-
 
 
 
