@@ -29,15 +29,28 @@
 <br/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/palash-bajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palash-bajpai" height="30" width="40" /></a>
-<a href="https://instagram.com/palashbajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palashbajpai" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/palash-bajpai" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://instagram.com/palashbajpai" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+<hr>
+
+<p align="center">
+ 
 <a href="https://www.codechef.com/users/palash_bajpai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="palash_bajpai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/palashbajpai214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palashbajpai214" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/palashbajpai45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="palashbajpai45" height="30" width="40" /></a>
 </p>
 
 <br/>
+
+
+
+
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
