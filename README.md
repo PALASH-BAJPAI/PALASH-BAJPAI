@@ -15,6 +15,7 @@
   </a>  
   <a href="https://github.com/palash-bajpai/stargazers">
     <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
+  </a>
 </p>
 
 
