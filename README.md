@@ -28,13 +28,12 @@
   
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/palash-bajpai" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://instagram.com/palashbajpai" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-<hr>
 
 <p align="center">
  
@@ -42,6 +41,7 @@
 <a href="https://www.leetcode.com/palashbajpai214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="palashbajpai214" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/palashbajpai45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="palashbajpai45" height="30" width="40" /></a>
 </p>
+
 
 <br/>
 
