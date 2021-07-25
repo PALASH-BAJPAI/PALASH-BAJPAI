@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img alt="Have a good day!" src="https://media.giphy.com/media/USnLRDIiBdQ6X0qMjS/giphy.gif" width="50px"> I'm PALASH BAJPAI</h1>
 <h3 align="center">A passionate fullStack developer / python coder.</h3>
 <h6 align="center">A motivated Computer Science & Engineering under graduate from National Institute of Technology Calicut, who loves creating new stuffs.</h6>
-<h6 align="center">Life is short, so I use python to code 👨‍💻 </h6>
+<h6 align="center">Life is short, so I use python 👨‍💻 </h6>
 
 
 
@@ -20,9 +20,9 @@
  <p align="center">
   <b>🌱 I’m currently learning Machine Learning</b><br></p>
   <p align="center">
-  <b> 💬 Ask me about **React, React Native, Python, Javascript**</b><br></p>
+  <b> 💬 Ask me about</b> **React, React Native, Python, Javascript**<br></p>
   <p align="center">
-  <b>📫 How to reach me **palashbajpai45@gmail.com**</b><br>
+  <b>📫 How to reach me </b>**palashbajpai45@gmail.com**<br>
 
 </p>
  
