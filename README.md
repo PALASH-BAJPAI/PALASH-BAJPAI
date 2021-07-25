@@ -4,6 +4,14 @@
 <h6 align="center">Life is short, so I use python 👨‍💻 </h6>
 
 
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/palash-bajpai" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://instagram.com/palashbajpai" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
@@ -14,6 +22,7 @@
     <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
   </a>
 </p>
+
 
 
  
@@ -33,12 +42,8 @@
   
 <br/>
 
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/palash-bajpai" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://instagram.com/palashbajpai" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<h3 align="center">Coding profiles:</h3>
+<p>Yea, trying to improve them </p>
 
 <p align="center">
  
