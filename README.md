@@ -1,11 +1,13 @@
-<h1 align="center">Hi<img alt="Have a good day!" src="https://media.giphy.com/media/USnLRDIiBdQ6X0qMjS/giphy.gif" width="10px"> I'm PALASH BAJPAI</h1>
+<h1 align="center">Hi
+<img alt="Have a good day!" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="10%">  
+I'm PALASH BAJPAI</h1>
+ 
 <h3 align="center">A passionate fullStack developer / python coder</h3>
 <h6 align="center">A motivated Computer Science & Engineering under graduate from National Institute of Technology Calicut, who loves creating new stuffs.</h6>
 <h6 align="center">Life is short, so I use python 👨‍💻 </h6>
 
 
 <h3 align="center">Connect with me:</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/palash-bajpai" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://instagram.com/palashbajpai" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -101,5 +103,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="palash-bajpai" /></p>
 
-
+<br>
+<a href="https://linkedin.com/in/palash-bajpai" target="_blank"">
+<img alt="Connect with me" src="https://media.giphy.com/media/4Ra9gYHv1C5atqnYHS/giphy.gif" width="20%">  
+</a>
 
