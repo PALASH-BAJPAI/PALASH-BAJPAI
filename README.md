@@ -93,7 +93,9 @@ I'm PALASH BAJPAI</h1>
 
 <p align="left"> 
 <h3 align="left">Learning...</h3>
-<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+</a> 
+</p>
 
 <br/>
 
@@ -101,9 +103,10 @@ I'm PALASH BAJPAI</h1>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=PALASH-BAJPAI&show_icons=true&theme=merko">
 </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="palash-bajpai" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="palash-bajpai" /></p>
 
-<br>
+
+<br/>
 <a href="https://linkedin.com/in/palash-bajpai" target="_blank"">
 <img alt="Connect with me" src="https://media.giphy.com/media/4Ra9gYHv1C5atqnYHS/giphy.gif" width="20%">  
 </a>
