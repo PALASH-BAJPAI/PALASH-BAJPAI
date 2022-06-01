@@ -108,6 +108,6 @@ I'm PALASH BAJPAI</h1>
 
 <br/>
 <a href="https://linkedin.com/in/palash-bajpai" target="_blank"">
-<img alt="Connect with me" src="https://media.giphy.com/media/4Ra9gYHv1C5atqnYHS/giphy.gif" width="20%">  
+<img alt="Connect with me" src="https://media.giphy.com/media/4Ra9gYHv1C5atqnYHS/giphy.gif" width="15%">  
 </a>
 
