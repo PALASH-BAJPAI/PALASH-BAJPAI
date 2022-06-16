@@ -100,6 +100,7 @@ I'm PALASH BAJPAI</h1>
 <br/>
 
 <a href="#">
+  ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PALASH-BAJPAI&show_icons=true&theme=dark)
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=PALASH-BAJPAI&show_icons=true&theme=merko">
 </a>
 
