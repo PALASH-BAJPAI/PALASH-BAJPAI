@@ -99,10 +99,8 @@ I'm PALASH BAJPAI</h1>
 
 <br/>
 
+![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PALASH-BAJPAI&show_icons=true&theme=dark&count_private=true)
 
-<a href="#">  
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PALASH-BAJPAI&show_icons=true&theme=dark">
-</a>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="palash-bajpai" /></p>
 
