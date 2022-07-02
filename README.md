@@ -99,6 +99,11 @@ I'm PALASH BAJPAI</h1>
 
 <br/>
 
+<p> 
+<a herf=""><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PALASH-BAJPAI&theme=tokyonight_duo" alt="Palash Bajpai" /></a>
+</h3>
+
+
 ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PALASH-BAJPAI&show_icons=true&theme=dark&count_private=true)
 
 
