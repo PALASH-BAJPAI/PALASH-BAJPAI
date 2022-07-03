@@ -104,12 +104,6 @@ I'm PALASH BAJPAI</h1>
 </h3>
 
 
-![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=PALASH-BAJPAI&show_icons=true&theme=dark&count_private=true)
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=palash-bajpai&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="palash-bajpai" /></p>
-
-
 <br/>
 <a href="https://linkedin.com/in/palash-bajpai" target="_blank"">
 <img alt="Connect with me" src="https://media.giphy.com/media/4Ra9gYHv1C5atqnYHS/giphy.gif" width="15%">  
