@@ -20,15 +20,26 @@
 
 
 <!--BADGES-->
-<h1 align="left">
+<p align="left">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="https://gist.github.com/PALASH-BAJPAI"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=My Gists&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="my gits"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</h1>
-
+</p>
 
 <!--CODING GIF-->
 <img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" height="60%"> 
+
+<!--ABOUT ME CONTENT-->
+<p>
+Born and raised in Indore, India. A B.Tech graduate from National Institute of Technology, Calicut, Kerala . Pursued my degree in the field of Computer Science. My greatest qualities are my passion to win and quick learning ability which makes me a great asset to my team.With a keen interest in coding, I currently know python, C, HTML, CSS, javascript. Also with my good drawing skill and creative ideas combined with photoshop,illustrator and figma, I can work in graphics designing and ui-ux.
+  
+  - 🌱 I’m currently learning Machine Learning
+
+  - 💬 Ask me about **React, React Native, Python, Javascript**
+
+  - 📫 How to reach me **palashbajpai45@gmail.com**
+</p>
+
 
 <!--CONTENT-->
 <h3 align="left">A passionate fullStack developer / python coder</h3>
@@ -36,7 +47,7 @@
 <h6 align="left">Life is short, so I use python 👨‍💻 </h6>
 
 
-<h3 align="center">Connect with me:</h3>
+
 
 
 
@@ -53,16 +64,7 @@
 
  
 
-  - 🌱 I’m currently learning Machine Learning
 
-  - 💬 Ask me about **React, React Native, Python, Javascript**
-
-  - 📫 How to reach me **palashbajpai45@gmail.com**
-
-
- 
- 
- 
  
  
   
