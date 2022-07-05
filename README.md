@@ -1,37 +1,49 @@
 <!--TOP WAVY-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20PALASH%20BAJPAI&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Software%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
 
-<!--BADGES-->
-<h1 align="left">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/xIY81FvbH999"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&logo=skype&logoColor=important&message=Contact%20me&style=style=flat&color=important" alt="Badge"/></a>
-</h1>
 
-
-
-<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%"> 
-
-
-<h3 align="center">A passionate fullStack developer / python coder</h3>
-<h6 align="center">A motivated Computer Science & Engineering under graduate from National Institute of Technology Calicut, who loves creating new stuffs.</h6>
-<h6 align="center">Life is short, so I use python 👨‍💻 </h6>
-
-
-<h3 align="center">Connect with me:</h3>
+<!--CONNECT ME BADGES-->
 <p align="center">
   <a href="https://linkedin.com/in/palash-bajpai" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://instagram.com/palashbajpai" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<!-- STATES -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
+  
+  <a href="https://github.com/palash-bajpai/stargazers">
+    <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
+  </a>
+</p>
+
+
+
+<!--BADGES-->
+<h1 align="left">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="https://gist.github.com/PALASH-BAJPAI"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=My Gists&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="my gits"/></a>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+</h1>
+
+
+<!--CODING GIF-->
+<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" height="60%"> 
+
+<!--CONTENT-->
+<h3 align="left">A passionate fullStack developer / python coder</h3>
+<h6 align="left">A motivated Computer Science & Engineering under graduate from National Institute of Technology Calicut, who loves creating new stuffs.</h6>
+<h6 align="left">Life is short, so I use python 👨‍💻 </h6>
+
+
+<h3 align="center">Connect with me:</h3>
+
+
 
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
-</p>
-
-<p align="center">
+  
   <a href="https://github.com/palash-bajpai/stargazers">
     <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
   </a>
