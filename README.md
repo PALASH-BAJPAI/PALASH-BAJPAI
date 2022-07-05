@@ -27,7 +27,7 @@
 </p>
 
 <!--CODING GIF-->
-<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="40%" height="60%"> 
+<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" height="60%"> 
 
 <!--ABOUT ME CONTENT-->
 <p>
@@ -38,28 +38,11 @@ Born and raised in Indore, India. A B.Tech graduate from National Institute of T
   - 💬 Ask me about **React, React Native, Python, Javascript**
 
   - 📫 How to reach me **palashbajpai45@gmail.com**
+  
 </p>
 
 
 <!--CONTENT-->
-<h3 align="left">A passionate fullStack developer / python coder</h3>
-<h6 align="left">A motivated Computer Science & Engineering under graduate from National Institute of Technology Calicut, who loves creating new stuffs.</h6>
-<h6 align="left">Life is short, so I use python 👨‍💻 </h6>
-
-
-
-
-
-
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
-  
-  <a href="https://github.com/palash-bajpai/stargazers">
-    <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
-  </a>
-</p>
-
 
 
  
