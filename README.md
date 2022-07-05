@@ -8,9 +8,11 @@
   <a href="https://instagram.com/palashbajpai" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<!-- STATES -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
+
+<!--BADGES-->
+<p align="left">
+  <a href="https://gist.github.com/PALASH-BAJPAI"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=My Gists&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="my gits"/></a>
+    <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
   
   <a href="https://github.com/palash-bajpai/stargazers">
     <img src="https://img.shields.io/github/stars/palash-bajpai"/> 
@@ -19,19 +21,12 @@
 
 
 
-<!--BADGES-->
-<p align="left">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="https://gist.github.com/PALASH-BAJPAI"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=My Gists&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="my gits"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=if%20useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</p>
-
 <!--CODING GIF-->
 <img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" height="60%"> 
 
 <!--ABOUT ME CONTENT-->
 <p>
-Born and raised in Indore, India. A B.Tech graduate from National Institute of Technology, Calicut, Kerala . Pursued my degree in the field of Computer Science. My greatest qualities are my passion to win and quick learning ability which makes me a great asset to my team.With a keen interest in coding, I currently know python, C, HTML, CSS, javascript. Also with my good drawing skill and creative ideas combined with photoshop,illustrator and figma, I can work in graphics designing and ui-ux.
+A zealous, creative and adept engineer hailing from Indore, with an undergraduate degree in Computer Science and Engineering from one of the premier institutes of India, namely National Institute of Technology, Calicut.Well versed in Python, C, HTML, CSS, JavaScript, React and React Native. Efficient in graphics designing and UI-UX, with an expertise in Photoshop, Illustrator and Figma. Currently mastering one of the vast domains, Machine Learning.
   
   - 🌱 I’m currently learning Machine Learning
 
