@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&width=1000&section=header&text=Hi%20👋,%20I'm%20PALASH%20BAJPAI&fontSize=50&animation=fadeIn&fontAlignY=36&desc=%20A%20Passionate%20Software%20Engineer%20👨‍🎓&descAlignY=51&descAlign=62"/>
+
+
+
 <h1 align="center">Hi
 <img alt="Have a good day!" src="https://media.giphy.com/media/zJ3V6Ot51H8Y0/giphy.gif" width="10%">  
 I'm PALASH BAJPAI</h1>
