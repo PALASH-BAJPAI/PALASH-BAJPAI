@@ -22,7 +22,7 @@
 
 
 <!--CODING GIF-->
-<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50%" height="60%"> 
+<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60%" height="100%"> 
 
 <!--ABOUT ME CONTENT-->
 <p>
