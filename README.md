@@ -71,6 +71,6 @@ A zealous, creative and adept engineer hailing from Indore, with an undergraduat
 
 <br/>
 <a href="https://linkedin.com/in/palash-bajpai" target="_blank"">
-<img alt="Connect with me" src="https://media.giphy.com/media/iJ14CzKg8Lhct1ZMcw/giphy.gif" width="45%">  
+<img alt="Connect with me" src="https://media.giphy.com/media/iJ14CzKg8Lhct1ZMcw/giphy.gif" width="35%">  
 </a>
 
