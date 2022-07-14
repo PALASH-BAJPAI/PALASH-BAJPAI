@@ -69,8 +69,3 @@ A zealous, creative and adept engineer hailing from Indore, with an undergraduat
 
 <a herf=""><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PALASH-BAJPAI&theme=tokyonight_duo" alt="Palash Bajpai" /></a>
 
-<br/>
-<a href="https://linkedin.com/in/palash-bajpai" target="_blank"">
-<img alt="Connect with me" src="https://media.giphy.com/media/iJ14CzKg8Lhct1ZMcw/giphy.gif" width="35%">  
-</a>
-
