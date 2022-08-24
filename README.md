@@ -29,7 +29,7 @@
 <p>
 A zealous, creative and adept engineer hailing from Indore, with an undergraduate degree in Computer Science and Engineering from one of the premier institutes of India, namely National Institute of Technology, Calicut.Well versed in Python, C, HTML, CSS, JavaScript, React and React Native. Efficient in graphics designing and UI-UX, with an expertise in Photoshop, Illustrator and Figma. Currently mastering one of the vast domains, Machine Learning.
   
-  - 🌱 I’m currently learning Machine Learning
+  - 🌱 I’m currently learning Machine Learning , Java
 
   - 💬 Ask me about **React, React Native, Python, Javascript**
 
