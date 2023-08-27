@@ -22,8 +22,8 @@
 
 
 <!--CODING GIF-->
-<img align="right" alt="Have a good day!" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" padding="0" margin="0" width="400px" height="100%"> 
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 
 <!--ABOUT ME CONTENT-->
 <p>
