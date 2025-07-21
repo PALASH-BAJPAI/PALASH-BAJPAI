@@ -11,7 +11,9 @@
 
 <!--BADGES-->
 <p align="left">
-  <a href="https://gist.github.com/PALASH-BAJPAI"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=My Gists&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="my gits"/></a>
+<a href="https://gist.github.com/PALASH-BAJPAI">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" alt="My Gists"/>
+</a>
     <img src="https://komarev.com/ghpvc/?username=palash-bajpai&label=Profile%20views&color=0e75b6&style=flat" alt="palash-bajpai" />
   
   <a href="https://github.com/palash-bajpai/stargazers">
