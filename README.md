@@ -33,7 +33,7 @@ A zealous, creative and adept engineer hailing from Indore, with an undergraduat
   
   - 🌱 I’m currently learning System design.
 
-  - 💬 Ask me about **React, React Native, Python, Javascript**
+  - 💬 Ask me about **Java, Spring, Spring boot, Python, Javascript**
 
   - 📫 How to reach me **palashbajpai45@gmail.com**
   
